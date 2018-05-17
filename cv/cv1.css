@@ -1,0 +1,141 @@
+body {
+
+
+background-image:url("111.jpg");
+}
+
+p { position:relative;
+    top: 20px;
+    text-align: center;
+    font-size: 22px;
+    
+}
+
+#pdev {
+    position: relative;
+    top:-20px;
+    
+    text-align:center;
+}
+#lang {
+    position: relative;
+    top:40px;
+    
+    text-align:center;
+}
+
+
+#nom { background-color: ;
+       width:300px;
+       height:300px;
+       border:1px solid black;
+       padding:1px 0;
+       text-align: center;
+}
+
+
+
+#reseaux { background-color:;
+	       width:300px;
+	       height:120px;
+           border:1px solid black;
+           padding:1px 0;
+           
+    
+} 
+
+#logoreseau { position: absolute;
+              top:330px;
+              left:20px;
+    
+}
+
+#objectifs { background-color:;
+	         width:300px;
+	         height:300px;
+             border:1px solid black;
+             padding:1px 0;
+             position: relative;
+             right: 1px;
+             
+}
+
+
+#infos {background-color: ;
+		width:300px;
+	    height:436px;	
+        border:1px solid black;
+        padding:1px 0;
+        position: relative;
+        top:0px;
+        right: 1px;
+}
+
+
+
+
+#contacts {background-color: ;
+           width:600px;
+	       height:140px;
+           border:1px solid black;
+           padding:1px 0;
+           position: relative;
+           left:300px;
+           bottom: 1172px;
+}
+
+ #exp {background-color: ;
+      width:600px;
+	  height:300px;
+      border:1px solid black;
+      padding:1px 0;
+      position:relative;
+      top:-1174px;
+      right: -300px;
+     
+}
+
+
+
+
+#formation {background-color: ;
+			width:600px;
+	        height:120px;
+            border:1px solid black;
+            padding:1px 0;
+            position: relative;
+            top:-1174px;
+            right: -300px;
+            
+
+           
+}
+
+
+
+
+
+#langues {background-color: ;
+		  width:600px;
+	      height:300px;
+          border:1px solid black;
+          padding:1px 0;
+          position: relative;
+          top:-1174px;
+          right: -300px;
+            
+}
+
+
+
+#ref {background-color: ;
+      width:600px;
+	  height:300px;
+      border:1px solid black;
+      padding:1px 0;
+      position: relative;
+      top:-1180px;
+      right: -300px;
+            
+}
+
